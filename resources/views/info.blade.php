@@ -14,6 +14,6 @@
     </ul>
 </header>
 <body>
-    <h1>{{$saluto}}</h1>
+    <h1>{{$info}}</h1>
 </body>
 </html>
